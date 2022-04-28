@@ -180,23 +180,31 @@ h1 span {
     grid-row: 9/13;
     border: #333 double 4px;
     margin-top: 2vh;
-    background-color: #333;
 }
 
-.article12 div {
+.article12 img {
+    padding: 6px;
+    width: 100%;
+    height: 28vh;
+}
+
+
+/* .article12 div {
     text-align: center;
-}
+} */
 
-.article12 h5 {
+
+/* .article12 h5 {
     background-color: rgb(233, 233, 224);
     font-size: 5rem;
     color: #333;
     border-radius: 70%;
     font-weight: 900;
     margin: 8vh 4% 0 4%;
-}
+} */
 
-.article12 div h5 span {
+
+/* .article12 div h5 span {
     font-size: 1rem;
     padding-bottom: 90%;
-}
+} */
